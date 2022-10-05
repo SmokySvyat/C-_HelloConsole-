@@ -95,3 +95,4 @@ void FillImage(int row, int col)
 
 PrintImage(pic);
 
+Whata
